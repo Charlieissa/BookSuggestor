@@ -2,6 +2,8 @@
 
 BookSuggestor is a Python application that allows users to input a book title, and it suggests books from the same category. Users have the option to order or preview the recommended books.
 
+![Screenshot from 2023-09-30 14-57-32](https://github.com/Charlieissa/BookSuggestor/assets/59963704/1082abc2-57ef-4356-a72b-26faf8131dd0)
+
 
 ## Description
 
